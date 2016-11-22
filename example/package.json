@@ -1,0 +1,21 @@
+{
+  "name": "dojo-load-replacement-plugin-example",
+  "version": "2.0.0-pre",
+  "description": "An example app demonstrating usage and effect of the dojo-load-replacement plugin for webpack",
+  "main": "dist/src/main.js",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "dojo-interfaces": "^2.0.0-alpha.6",
+    "html-webpack-plugin": "^2.24.1",
+    "ts-loader": "^1.2.2",
+    "typescript": "~2.0.3",
+    "typings": "^2.0.0",
+    "umd-compat-webpack-plugin": "^1.0.4",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "dojo-core": "^2.0.0-alpha.16",
+    "dojo-has": ">=2.0.0-alpha.6",
+    "dojo-shim": "^2.0.0-beta.3"
+  }
+}
